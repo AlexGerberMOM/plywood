@@ -1,2 +1,2 @@
 # plywood
-test repository for detection of defects of polywood
+test repository for detection of defects of plywood
